@@ -167,9 +167,9 @@ PROTOCOL=https
 # Values specified here are case sensitive.
 # -------------------------------------------------------------------
 
-#USERNAME=
-#PASSWORD=
-#AUTHENTICATION_PHRASE=
+USERNAME=
+PASSWORD=
+AUTHENTICATION_PHRASE=
 
 # -------------------------------------------------------------------
 # Uncomment and edit the following only if you have more than one
